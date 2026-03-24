@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/lever",
+  "textures": {
+    "base": "minecraft:block/stone",
+    "particle": "minecraft:block/stone",
+    "lever": "togglecraft:block/feature_flag_lever"
+  }
+}

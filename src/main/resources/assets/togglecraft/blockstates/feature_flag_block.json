@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "togglecraft:block/feature_flag_block"
+    }
+  }
+}
